@@ -1,0 +1,99 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+   
+}
+
+.pro
+{
+    height: 150px;
+    background-color: darkgreen;
+    text-align: center;
+    overflow: hidden;
+}
+.pro
+{
+    color: aqua;
+    top: 80px;
+}
+#im
+{
+    height: 400px;
+    width: 400px;
+    background-color: beige;
+    overflow: hidden;
+    float:left;
+
+}
+.imbox 
+{
+    top: 200px;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    margin-top: 20px;
+    overflow: hidden;
+    border:1px solid;
+}
+.edu
+{
+    text-align: center;
+}
+.ab
+{
+    left: 10px;
+    overflow: hidden;
+    background-color:gray;
+    //text-align: center;
+    height: 250px;
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+
+}
+.ed
+{
+    background-color: brown;
+    height: 150px;
+    text-align: center;
+    overflow: hidden;
+    color: beige;
+    border-radius: 50px;
+    width: 500px;
+    margin-left: 400px;
+}
+.fild
+{
+   height: 150px;
+   width: 300px;
+   margin-left: 20px;
+}
+.name1
+{
+    height: 20px;
+    width: 200px;
+}
+textarea
+{
+    width: 400px;
+    height: 200px;
+    
+}
+.mysubmit
+{
+    margin-left: 150px;
+}
+.first
+{
+    margin-left: 20px;
+}
+.information3
+{
+    margin-left: 10px;
+}
+
+
+
+
+
